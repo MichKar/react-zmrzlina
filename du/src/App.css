@@ -1,0 +1,15 @@
+.container {
+  padding-top: 20px;
+}
+
+.row,
+.col {
+  margin-bottom: 20px;
+}
+
+.vysledek {
+  font-weight: 500;
+  border: 1px solid black;
+  padding: 10px;
+  height: 120px;
+}
